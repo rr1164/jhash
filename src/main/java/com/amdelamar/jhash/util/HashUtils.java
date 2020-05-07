@@ -1,6 +1,6 @@
 package com.amdelamar.jhash.util;
 
-import org.apache.commons.codec.binary.Base64;
+import android.util.Base64;
 import org.apache.commons.codec.binary.StringUtils;
 
 import java.security.SecureRandom;
